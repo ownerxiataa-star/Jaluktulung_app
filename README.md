@@ -1,6 +1,6 @@
 # Jaluktulung_app
 Aplikasi jasa pengiriman dll
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
